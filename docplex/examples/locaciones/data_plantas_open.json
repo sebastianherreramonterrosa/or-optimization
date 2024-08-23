@@ -1,0 +1,5109 @@
+{
+    "TIEMPO_EJECUCION": 20,
+    "PLANTAS": [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+    ],
+    "CLIENTES": [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+        21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+        39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50
+    ],
+    "COSTO_CLIENTE_PLANTA": [
+        {
+            "Planta": 1,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 1,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 1,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 47
+        },
+        {
+            "Planta": 1,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 1,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 1,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 1,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 1,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 1,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 64
+        },
+        {
+            "Planta": 1,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 1,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 1,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 59
+        },
+        {
+            "Planta": 1,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 1,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 49
+        },
+        {
+            "Planta": 1,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 1,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 1,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 1,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 1,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 1,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 1,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 1,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 1,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 1,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 14
+        },
+        {
+            "Planta": 1,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 1,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 1,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 1,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 1,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 1,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 94
+        },
+        {
+            "Planta": 1,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 1,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 1,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 50
+        },
+        {
+            "Planta": 1,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 1,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 1,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 1,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 1,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 1,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 1,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 24
+        },
+        {
+            "Planta": 1,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 1,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 1,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 1,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 74
+        },
+        {
+            "Planta": 1,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 1,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 1,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 1,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 47
+        },
+        {
+            "Planta": 1,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 31
+        },
+        {
+            "Planta": 1,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 2,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 77
+        },
+        {
+            "Planta": 2,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 2,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 2,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 15
+        },
+        {
+            "Planta": 2,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 2,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 2,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 2,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 2,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 2,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 2,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 59
+        },
+        {
+            "Planta": 2,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 2,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 2,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 2,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 3
+        },
+        {
+            "Planta": 2,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 2,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 86
+        },
+        {
+            "Planta": 2,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 2,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 78
+        },
+        {
+            "Planta": 2,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 2,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 2,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 64
+        },
+        {
+            "Planta": 2,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 59
+        },
+        {
+            "Planta": 2,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 2,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 2,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 2,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 83
+        },
+        {
+            "Planta": 2,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 2,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 2,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 2,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 2,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 2,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 2,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 2,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 30
+        },
+        {
+            "Planta": 2,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 2,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 2,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 2,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 58
+        },
+        {
+            "Planta": 2,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 50
+        },
+        {
+            "Planta": 2,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 2,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 2,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 2,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 2,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 2,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 24
+        },
+        {
+            "Planta": 2,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 83
+        },
+        {
+            "Planta": 2,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 2,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 84
+        },
+        {
+            "Planta": 2,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 94
+        },
+        {
+            "Planta": 3,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 24
+        },
+        {
+            "Planta": 3,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 3,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 77
+        },
+        {
+            "Planta": 3,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 89
+        },
+        {
+            "Planta": 3,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 3,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 3,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 3,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 90
+        },
+        {
+            "Planta": 3,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 3,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 2
+        },
+        {
+            "Planta": 3,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 3,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 3,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 50
+        },
+        {
+            "Planta": 3,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 77
+        },
+        {
+            "Planta": 3,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 3,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 89
+        },
+        {
+            "Planta": 3,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 94
+        },
+        {
+            "Planta": 3,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 3,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 3,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 3,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 3,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 67
+        },
+        {
+            "Planta": 3,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 86
+        },
+        {
+            "Planta": 3,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 3,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 3,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 3,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 3,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 3,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 3,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 3,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 55
+        },
+        {
+            "Planta": 3,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 3,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 3,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 13
+        },
+        {
+            "Planta": 3,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 3,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 3,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 3,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 3,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 3,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 99
+        },
+        {
+            "Planta": 3,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 3,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 3,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 3,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 3,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 3,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 3,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 3,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 61
+        },
+        {
+            "Planta": 3,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 3,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 4,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 4,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 4,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 4,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 4,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 4,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 99
+        },
+        {
+            "Planta": 4,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 15
+        },
+        {
+            "Planta": 4,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 4,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 4,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 2
+        },
+        {
+            "Planta": 4,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 4,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 4,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 4,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 4,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 4,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 4,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 4,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 4,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 4,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 4,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 74
+        },
+        {
+            "Planta": 4,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 4,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 4,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 4,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 50
+        },
+        {
+            "Planta": 4,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 4,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 20
+        },
+        {
+            "Planta": 4,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 6
+        },
+        {
+            "Planta": 4,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 2
+        },
+        {
+            "Planta": 4,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 4,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 4,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 71
+        },
+        {
+            "Planta": 4,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 31
+        },
+        {
+            "Planta": 4,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 4,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 4,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 4,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 4,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 4,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 4,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 4,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 30
+        },
+        {
+            "Planta": 4,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 20
+        },
+        {
+            "Planta": 4,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 4,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 4,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 4,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 4,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 4,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 90
+        },
+        {
+            "Planta": 4,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 4,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 67
+        },
+        {
+            "Planta": 5,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 5,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 5,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 5,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 5,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 5,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 74
+        },
+        {
+            "Planta": 5,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 5,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 5,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 5,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 5,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 14
+        },
+        {
+            "Planta": 5,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 49
+        },
+        {
+            "Planta": 5,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 5,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 5,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 5,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 5,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 5,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 5,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 5,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 5,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 5,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 5,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 13
+        },
+        {
+            "Planta": 5,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 5,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 5,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 66
+        },
+        {
+            "Planta": 5,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 78
+        },
+        {
+            "Planta": 5,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 5,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 78
+        },
+        {
+            "Planta": 5,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 3
+        },
+        {
+            "Planta": 5,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 75
+        },
+        {
+            "Planta": 5,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 5,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 5,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 5,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 64
+        },
+        {
+            "Planta": 5,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 5,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 5,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 5,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 5,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 90
+        },
+        {
+            "Planta": 5,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 49
+        },
+        {
+            "Planta": 5,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 71
+        },
+        {
+            "Planta": 5,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 5,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 5,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 5,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 5,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 86
+        },
+        {
+            "Planta": 5,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 31
+        },
+        {
+            "Planta": 5,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 86
+        },
+        {
+            "Planta": 5,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 6,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 6,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 6,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 6,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 6,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 6,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 6,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 6,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 6,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 6,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 6,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 6,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 6,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 66
+        },
+        {
+            "Planta": 6,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 75
+        },
+        {
+            "Planta": 6,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 6,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 6,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 6,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 6,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 6,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 6,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 6,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 6,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 6,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 6,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 6,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 6,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 6,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 6,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 6,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 3
+        },
+        {
+            "Planta": 6,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 6,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 6,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 6,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 6,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 6,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 6,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 6
+        },
+        {
+            "Planta": 6,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 6,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 6,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 6,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 6,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 6,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 6,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 6,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 6,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 6,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 6,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 6,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 86
+        },
+        {
+            "Planta": 6,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 7,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 7,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 7,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 7,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 7,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 7,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 7,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 7,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 66
+        },
+        {
+            "Planta": 7,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 7,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 62
+        },
+        {
+            "Planta": 7,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 7,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 7,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 7,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 62
+        },
+        {
+            "Planta": 7,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 7,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 7,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 7,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 7,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 64
+        },
+        {
+            "Planta": 7,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 7,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 50
+        },
+        {
+            "Planta": 7,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 7,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 83
+        },
+        {
+            "Planta": 7,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 7,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 77
+        },
+        {
+            "Planta": 7,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 77
+        },
+        {
+            "Planta": 7,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 7,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 24
+        },
+        {
+            "Planta": 7,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 7,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 7,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 7,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 7,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 40
+        },
+        {
+            "Planta": 7,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 7,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 7,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 7,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 7,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 7,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 7,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 7,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 7,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 74
+        },
+        {
+            "Planta": 7,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 7,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 7,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 7,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 7,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 89
+        },
+        {
+            "Planta": 7,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 61
+        },
+        {
+            "Planta": 7,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 7,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 24
+        },
+        {
+            "Planta": 8,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 8,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 8,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 35
+        },
+        {
+            "Planta": 8,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 8,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 8,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 8,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 8,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 8,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 8,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 8,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 8,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 8,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 8,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 31
+        },
+        {
+            "Planta": 8,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 8,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 8,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 8,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 8,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 8,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 8,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 8,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 8,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 8,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 8,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 78
+        },
+        {
+            "Planta": 8,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 8,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 8,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 78
+        },
+        {
+            "Planta": 8,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 8,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 8,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 94
+        },
+        {
+            "Planta": 8,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 8,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 8,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 8,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 8,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 8,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 14
+        },
+        {
+            "Planta": 8,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 8,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 8,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 24
+        },
+        {
+            "Planta": 8,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 67
+        },
+        {
+            "Planta": 8,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 8,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 8,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 58
+        },
+        {
+            "Planta": 8,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 8,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 8,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 8,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 66
+        },
+        {
+            "Planta": 8,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 8,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 9,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 9,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 9,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 35
+        },
+        {
+            "Planta": 9,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 9,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 9,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 9,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 9,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 9,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 61
+        },
+        {
+            "Planta": 9,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 9,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 9,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 9,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 9,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 9,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 9,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 9,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 9,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 9,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 9,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 9,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 89
+        },
+        {
+            "Planta": 9,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 9,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 90
+        },
+        {
+            "Planta": 9,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 9,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 9,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 55
+        },
+        {
+            "Planta": 9,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 9,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 9,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 9,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 84
+        },
+        {
+            "Planta": 9,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 9,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 9,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 9,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 9,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 9,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 9,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 9,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 9,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 77
+        },
+        {
+            "Planta": 9,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 84
+        },
+        {
+            "Planta": 9,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 9,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 9,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 9,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 9,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 9,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 9,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 9,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 20
+        },
+        {
+            "Planta": 9,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 9,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 74
+        },
+        {
+            "Planta": 10,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 75
+        },
+        {
+            "Planta": 10,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 10,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 94
+        },
+        {
+            "Planta": 10,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 10,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 10,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 10,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 49
+        },
+        {
+            "Planta": 10,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 10,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 64
+        },
+        {
+            "Planta": 10,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 10,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 10,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 10,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 6
+        },
+        {
+            "Planta": 10,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 15
+        },
+        {
+            "Planta": 10,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 10,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 10,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 10,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 10,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 10,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 10,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 10,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 10,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 10,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 13
+        },
+        {
+            "Planta": 10,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 10,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 10,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 47
+        },
+        {
+            "Planta": 10,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 10,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 84
+        },
+        {
+            "Planta": 10,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 10,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 86
+        },
+        {
+            "Planta": 10,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 10,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 10,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 10,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 75
+        },
+        {
+            "Planta": 10,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 10,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 75
+        },
+        {
+            "Planta": 10,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 10,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 10,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 10,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 10,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 10,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 10,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 10,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 10,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 10,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 10,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 10,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 10,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 11,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 11,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 11,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 11,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 11,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 59
+        },
+        {
+            "Planta": 11,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 11,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 11,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 35
+        },
+        {
+            "Planta": 11,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 67
+        },
+        {
+            "Planta": 11,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 49
+        },
+        {
+            "Planta": 11,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 11,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 55
+        },
+        {
+            "Planta": 11,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 11,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 11,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 11,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 94
+        },
+        {
+            "Planta": 11,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 83
+        },
+        {
+            "Planta": 11,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 11,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 11,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 90
+        },
+        {
+            "Planta": 11,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 11,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 11,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 11,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 3
+        },
+        {
+            "Planta": 11,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 11,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 11,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 11,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 6
+        },
+        {
+            "Planta": 11,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 11,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 11,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 11,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 11,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 40
+        },
+        {
+            "Planta": 11,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 11,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 11,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 11,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 11,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 11,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 11,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 11,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 30
+        },
+        {
+            "Planta": 11,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 11,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 11,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 11,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 67
+        },
+        {
+            "Planta": 11,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 13
+        },
+        {
+            "Planta": 11,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 11,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 20
+        },
+        {
+            "Planta": 11,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 11,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 99
+        },
+        {
+            "Planta": 12,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 12,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 12,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 99
+        },
+        {
+            "Planta": 12,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 94
+        },
+        {
+            "Planta": 12,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 31
+        },
+        {
+            "Planta": 12,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 12,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 12,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 12,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 40
+        },
+        {
+            "Planta": 12,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 12,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 66
+        },
+        {
+            "Planta": 12,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 12,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 12,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 12,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 12,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 12,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 12,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 12,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 12,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 12,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 12,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 12,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 12,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 24
+        },
+        {
+            "Planta": 12,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 12,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 12,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 12,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 12,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 71
+        },
+        {
+            "Planta": 12,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 12,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 94
+        },
+        {
+            "Planta": 12,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 12,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 12,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 12,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 12,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 12,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 12,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 12,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 30
+        },
+        {
+            "Planta": 12,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 12,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 12,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 12,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 12,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 12,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 12,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 12,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 89
+        },
+        {
+            "Planta": 12,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 12,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 12,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 13,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 13,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 58
+        },
+        {
+            "Planta": 13,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 13,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 89
+        },
+        {
+            "Planta": 13,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 13,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 13,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 13,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 13,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 13,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 13,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 78
+        },
+        {
+            "Planta": 13,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 13,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 13,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 13,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 13,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 13,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 90
+        },
+        {
+            "Planta": 13,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 13,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 13,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 13,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 13,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 13,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 13,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 13,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 13,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 13,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 13,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 13,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 13,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 90
+        },
+        {
+            "Planta": 13,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 13,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 13,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 13,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 75
+        },
+        {
+            "Planta": 13,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 13,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 13,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 13,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 13,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 13,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 13,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 13,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 13,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 13,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 13,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 13,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 13,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 13,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 13,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 13,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 14,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 14,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 14,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 14,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 35
+        },
+        {
+            "Planta": 14,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 14,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 14,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 14,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 14,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 0
+        },
+        {
+            "Planta": 14,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 14,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 20
+        },
+        {
+            "Planta": 14,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 14,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 14,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 14,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 14,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 74
+        },
+        {
+            "Planta": 14,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 2
+        },
+        {
+            "Planta": 14,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 14,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 77
+        },
+        {
+            "Planta": 14,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 14,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 14,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 14,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 84
+        },
+        {
+            "Planta": 14,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 14,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 14,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 14,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 14,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 14,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 3
+        },
+        {
+            "Planta": 14,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 49
+        },
+        {
+            "Planta": 14,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 14,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 58
+        },
+        {
+            "Planta": 14,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 14,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 14,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 50
+        },
+        {
+            "Planta": 14,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 14,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 14,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 14,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 14,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 14,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 14,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 14,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 14,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 14,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 14,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 55
+        },
+        {
+            "Planta": 14,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 14,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 14,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 14,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 15,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 15,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 15,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 15,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 15,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 15,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 15,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 15,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 75
+        },
+        {
+            "Planta": 15,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 15,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 47
+        },
+        {
+            "Planta": 15,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 15,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 55
+        },
+        {
+            "Planta": 15,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 15,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 61
+        },
+        {
+            "Planta": 15,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 15,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 15,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 15,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 15,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 15,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 15,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 2
+        },
+        {
+            "Planta": 15,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 15,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 40
+        },
+        {
+            "Planta": 15,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 15,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 74
+        },
+        {
+            "Planta": 15,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 15,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 15,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 15,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 15,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 15,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 15,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 35
+        },
+        {
+            "Planta": 15,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 15,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 15,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 58
+        },
+        {
+            "Planta": 15,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 15,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 31
+        },
+        {
+            "Planta": 15,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 15,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 15,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 15,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 15,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 15,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 82
+        },
+        {
+            "Planta": 15,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 15,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 15,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 15,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 15,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 15,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 15,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 16,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 16,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 16,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 16,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 16,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 16,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 16,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 16,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 39
+        },
+        {
+            "Planta": 16,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 16,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 16,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 49
+        },
+        {
+            "Planta": 16,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 16,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 30
+        },
+        {
+            "Planta": 16,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 16,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 16,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 84
+        },
+        {
+            "Planta": 16,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 16,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 83
+        },
+        {
+            "Planta": 16,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 47
+        },
+        {
+            "Planta": 16,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 2
+        },
+        {
+            "Planta": 16,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 16,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 37
+        },
+        {
+            "Planta": 16,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 16,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 16,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 16,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 16,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 6
+        },
+        {
+            "Planta": 16,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 29
+        },
+        {
+            "Planta": 16,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 16,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 2
+        },
+        {
+            "Planta": 16,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 16,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 16,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 66
+        },
+        {
+            "Planta": 16,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 86
+        },
+        {
+            "Planta": 16,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 16,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 16,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 71
+        },
+        {
+            "Planta": 16,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 47
+        },
+        {
+            "Planta": 16,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 16,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 62
+        },
+        {
+            "Planta": 16,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 16,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 16,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 89
+        },
+        {
+            "Planta": 16,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 13
+        },
+        {
+            "Planta": 16,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 16,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 3
+        },
+        {
+            "Planta": 16,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 16,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 16,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 16,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 17,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 51
+        },
+        {
+            "Planta": 17,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 35
+        },
+        {
+            "Planta": 17,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 90
+        },
+        {
+            "Planta": 17,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 92
+        },
+        {
+            "Planta": 17,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 17,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 61
+        },
+        {
+            "Planta": 17,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 17,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 75
+        },
+        {
+            "Planta": 17,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 30
+        },
+        {
+            "Planta": 17,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 17,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 17,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 17,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 17,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 17,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 17,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 17,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 87
+        },
+        {
+            "Planta": 17,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 17,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 17,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 17,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 17,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 17,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 17,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 52
+        },
+        {
+            "Planta": 17,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 17,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 17,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 62
+        },
+        {
+            "Planta": 17,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 17,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 17,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 17,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 17,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 17,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 17,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 99
+        },
+        {
+            "Planta": 17,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 17,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 17,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 46
+        },
+        {
+            "Planta": 17,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 17,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 17,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 17,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 17,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 17,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 17,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 17,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 17,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 17,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 17,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 17,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 17,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 30
+        },
+        {
+            "Planta": 18,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 50
+        },
+        {
+            "Planta": 18,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 18,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 77
+        },
+        {
+            "Planta": 18,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 18,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 12
+        },
+        {
+            "Planta": 18,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 18,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 18,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 18,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 18,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 25
+        },
+        {
+            "Planta": 18,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 18,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 15
+        },
+        {
+            "Planta": 18,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 18,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 18,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 18,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 49
+        },
+        {
+            "Planta": 18,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 36
+        },
+        {
+            "Planta": 18,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 32
+        },
+        {
+            "Planta": 18,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 18,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 18,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 18,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 18,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 31
+        },
+        {
+            "Planta": 18,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 18,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 58
+        },
+        {
+            "Planta": 18,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 96
+        },
+        {
+            "Planta": 18,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 18,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 18,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 42
+        },
+        {
+            "Planta": 18,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 18,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 18,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 18,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 5
+        },
+        {
+            "Planta": 18,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 6
+        },
+        {
+            "Planta": 18,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 18,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 18,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 18,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 18,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 18,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 18,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 18,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 18,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 67
+        },
+        {
+            "Planta": 18,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 18,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 31
+        },
+        {
+            "Planta": 18,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 78
+        },
+        {
+            "Planta": 18,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 18,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 18,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 18,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 10
+        },
+        {
+            "Planta": 19,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 60
+        },
+        {
+            "Planta": 19,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 19,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 84
+        },
+        {
+            "Planta": 19,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 19,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 19,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 19,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 19,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 74
+        },
+        {
+            "Planta": 19,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 45
+        },
+        {
+            "Planta": 19,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 19,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 22
+        },
+        {
+            "Planta": 19,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 84
+        },
+        {
+            "Planta": 19,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 97
+        },
+        {
+            "Planta": 19,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 19,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 81
+        },
+        {
+            "Planta": 19,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 17
+        },
+        {
+            "Planta": 19,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 19,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 20
+        },
+        {
+            "Planta": 19,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 71
+        },
+        {
+            "Planta": 19,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 66
+        },
+        {
+            "Planta": 19,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 19,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 19,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 63
+        },
+        {
+            "Planta": 19,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 1
+        },
+        {
+            "Planta": 19,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 19,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 23
+        },
+        {
+            "Planta": 19,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 14
+        },
+        {
+            "Planta": 19,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 67
+        },
+        {
+            "Planta": 19,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 56
+        },
+        {
+            "Planta": 19,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 19,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 61
+        },
+        {
+            "Planta": 19,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 19,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 53
+        },
+        {
+            "Planta": 19,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 33
+        },
+        {
+            "Planta": 19,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 16
+        },
+        {
+            "Planta": 19,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 19,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 78
+        },
+        {
+            "Planta": 19,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 19,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 55
+        },
+        {
+            "Planta": 19,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 19,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 9
+        },
+        {
+            "Planta": 19,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 40
+        },
+        {
+            "Planta": 19,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 19,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 19,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 66
+        },
+        {
+            "Planta": 19,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 65
+        },
+        {
+            "Planta": 19,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 88
+        },
+        {
+            "Planta": 19,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 26
+        },
+        {
+            "Planta": 19,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 73
+        },
+        {
+            "Planta": 19,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 20,
+            "Cliente": 1,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 20,
+            "Cliente": 2,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 20,
+            "Cliente": 3,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 20,
+            "Cliente": 4,
+            "Costo de asignar un cliente a un planta": 99
+        },
+        {
+            "Planta": 20,
+            "Cliente": 5,
+            "Costo de asignar un cliente a un planta": 57
+        },
+        {
+            "Planta": 20,
+            "Cliente": 6,
+            "Costo de asignar un cliente a un planta": 58
+        },
+        {
+            "Planta": 20,
+            "Cliente": 7,
+            "Costo de asignar un cliente a un planta": 27
+        },
+        {
+            "Planta": 20,
+            "Cliente": 8,
+            "Costo de asignar un cliente a un planta": 68
+        },
+        {
+            "Planta": 20,
+            "Cliente": 9,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 20,
+            "Cliente": 10,
+            "Costo de asignar un cliente a un planta": 4
+        },
+        {
+            "Planta": 20,
+            "Cliente": 11,
+            "Costo de asignar un cliente a un planta": 38
+        },
+        {
+            "Planta": 20,
+            "Cliente": 12,
+            "Costo de asignar un cliente a un planta": 83
+        },
+        {
+            "Planta": 20,
+            "Cliente": 13,
+            "Costo de asignar un cliente a un planta": 34
+        },
+        {
+            "Planta": 20,
+            "Cliente": 14,
+            "Costo de asignar un cliente a un planta": 85
+        },
+        {
+            "Planta": 20,
+            "Cliente": 15,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 20,
+            "Cliente": 16,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 20,
+            "Cliente": 17,
+            "Costo de asignar un cliente a un planta": 43
+        },
+        {
+            "Planta": 20,
+            "Cliente": 18,
+            "Costo de asignar un cliente a un planta": 95
+        },
+        {
+            "Planta": 20,
+            "Cliente": 19,
+            "Costo de asignar un cliente a un planta": 99
+        },
+        {
+            "Planta": 20,
+            "Cliente": 20,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 20,
+            "Cliente": 21,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 20,
+            "Cliente": 22,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 20,
+            "Cliente": 23,
+            "Costo de asignar un cliente a un planta": 41
+        },
+        {
+            "Planta": 20,
+            "Cliente": 24,
+            "Costo de asignar un cliente a un planta": 72
+        },
+        {
+            "Planta": 20,
+            "Cliente": 25,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 20,
+            "Cliente": 26,
+            "Costo de asignar un cliente a un planta": 48
+        },
+        {
+            "Planta": 20,
+            "Cliente": 27,
+            "Costo de asignar un cliente a un planta": 61
+        },
+        {
+            "Planta": 20,
+            "Cliente": 28,
+            "Costo de asignar un cliente a un planta": 76
+        },
+        {
+            "Planta": 20,
+            "Cliente": 29,
+            "Costo de asignar un cliente a un planta": 11
+        },
+        {
+            "Planta": 20,
+            "Cliente": 30,
+            "Costo de asignar un cliente a un planta": 8
+        },
+        {
+            "Planta": 20,
+            "Cliente": 31,
+            "Costo de asignar un cliente a un planta": 44
+        },
+        {
+            "Planta": 20,
+            "Cliente": 32,
+            "Costo de asignar un cliente a un planta": 79
+        },
+        {
+            "Planta": 20,
+            "Cliente": 33,
+            "Costo de asignar un cliente a un planta": 20
+        },
+        {
+            "Planta": 20,
+            "Cliente": 34,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 20,
+            "Cliente": 35,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 20,
+            "Cliente": 36,
+            "Costo de asignar un cliente a un planta": 58
+        },
+        {
+            "Planta": 20,
+            "Cliente": 37,
+            "Costo de asignar un cliente a un planta": 19
+        },
+        {
+            "Planta": 20,
+            "Cliente": 38,
+            "Costo de asignar un cliente a un planta": 69
+        },
+        {
+            "Planta": 20,
+            "Cliente": 39,
+            "Costo de asignar un cliente a un planta": 18
+        },
+        {
+            "Planta": 20,
+            "Cliente": 40,
+            "Costo de asignar un cliente a un planta": 14
+        },
+        {
+            "Planta": 20,
+            "Cliente": 41,
+            "Costo de asignar un cliente a un planta": 80
+        },
+        {
+            "Planta": 20,
+            "Cliente": 42,
+            "Costo de asignar un cliente a un planta": 70
+        },
+        {
+            "Planta": 20,
+            "Cliente": 43,
+            "Costo de asignar un cliente a un planta": 98
+        },
+        {
+            "Planta": 20,
+            "Cliente": 44,
+            "Costo de asignar un cliente a un planta": 93
+        },
+        {
+            "Planta": 20,
+            "Cliente": 45,
+            "Costo de asignar un cliente a un planta": 7
+        },
+        {
+            "Planta": 20,
+            "Cliente": 46,
+            "Costo de asignar un cliente a un planta": 28
+        },
+        {
+            "Planta": 20,
+            "Cliente": 47,
+            "Costo de asignar un cliente a un planta": 91
+        },
+        {
+            "Planta": 20,
+            "Cliente": 48,
+            "Costo de asignar un cliente a un planta": 21
+        },
+        {
+            "Planta": 20,
+            "Cliente": 49,
+            "Costo de asignar un cliente a un planta": 54
+        },
+        {
+            "Planta": 20,
+            "Cliente": 50,
+            "Costo de asignar un cliente a un planta": 20
+        }
+    ],
+    "DEMANDA_CLIENTE": {
+        "1": 22,
+        "2": 28,
+        "3": 31,
+        "4": 27,
+        "5": 16,
+        "6": 26,
+        "7": 10,
+        "8": 6,
+        "9": 4,
+        "10": 16,
+        "11": 4,
+        "12": 30,
+        "13": 30,
+        "14": 35,
+        "15": 4,
+        "16": 15,
+        "17": 8,
+        "18": 28,
+        "19": 31,
+        "20": 9,
+        "21": 17,
+        "22": 4,
+        "23": 15,
+        "24": 12,
+        "25": 37,
+        "26": 8,
+        "27": 29,
+        "28": 25,
+        "29": 32,
+        "30": 22,
+        "31": 30,
+        "32": 25,
+        "33": 18,
+        "34": 35,
+        "35": 2,
+        "36": 16,
+        "37": 13,
+        "38": 3,
+        "39": 30,
+        "40": 3,
+        "41": 23,
+        "42": 37,
+        "43": 35,
+        "44": 14,
+        "45": 21,
+        "46": 27,
+        "47": 30,
+        "48": 22,
+        "49": 13,
+        "50": 34
+    },
+    "COSTO_ABRIR_PLANTA": {
+        "1": 3832,
+        "2": 3761,
+        "3": 814,
+        "4": 2365,
+        "5": 2018,
+        "6": 2581,
+        "7": 1671,
+        "8": 4712,
+        "9": 3202,
+        "10": 4401,
+        "11": 758,
+        "12": 4325,
+        "13": 3469,
+        "14": 1603,
+        "15": 1341,
+        "16": 3810,
+        "17": 2328,
+        "18": 3996,
+        "19": 2205,
+        "20": 4534
+    },
+    "CAPACIDAD_PLANTA": {
+        "1": 52,
+        "2": 54,
+        "3": 32,
+        "4": 52,
+        "5": 32,
+        "6": 95,
+        "7": 29,
+        "8": 73,
+        "9": 80,
+        "10": 97,
+        "11": 23,
+        "12": 85,
+        "13": 72,
+        "14": 62,
+        "15": 48,
+        "16": 100,
+        "17": 77,
+        "18": 78,
+        "19": 84,
+        "20": 62
+    }
+}
